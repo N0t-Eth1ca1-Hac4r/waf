@@ -20,8 +20,10 @@ print(Fore.YELLOW + '''
 │|__/|__/_/  |_/_/ |_/_/ |_/_/  |_|  /_/   /___/_/ |_/_____/ (_)   │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
-                                   Created by 
+                                   Created by N0t-Eth1ca1-Hac4r
 ''' )
+
+print('\033[1;37m[\033[1;31m*\033[1;37m]Лицензировано GNU LGPL (LGPL-3.0-only)')
 
 query   = input(Back.BLACK + Fore.YELLOW + 'Найти > ' + Back.RESET + Fore.WHITE)
 results = 100
